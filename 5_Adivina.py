@@ -1,4 +1,7 @@
-from random import random
+
+from random import randint
+
+
 num1= randint(2,10)
 num2=randint(2,10)
 multiplicacion=num1*num2
